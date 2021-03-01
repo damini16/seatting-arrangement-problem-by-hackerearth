@@ -1,0 +1,1 @@
+# seatting-arrangement-problem-by-hackerearth
